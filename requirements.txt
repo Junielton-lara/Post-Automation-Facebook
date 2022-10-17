@@ -1,0 +1,13 @@
+robotframework
+robotframework-faker
+robotframework-seleniumlibrary
+robotframework-requests
+robotframework-Crypto
+Faker
+requests
+xmltodict
+urllib3
+pyyaml
+pymupdf
+pillow
+pdfminer.six
